@@ -1,4 +1,4 @@
-package jp.co.jcps.Bean;
+ package jp.co.jcps.Bean;
 
 import java.io.Serializable;
 
